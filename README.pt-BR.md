@@ -13,10 +13,6 @@ Sou Engenheiro de Software com foco em **sistemas backend confiáveis**, **arqui
 
 Hoje na **Loomi**, onde sou responsável pela arquitetura e pela direção técnica do **CX Bloom**, uma plataforma omnichannel de atendimento. Curso Engenharia da Computação na UFRN e estou expandindo para LLMs, RAG, agentes e MCP.
 
-## Experiência
-
-<table><tr><td align="left" valign="top" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mgetech-dark.png"><img src="assets/mgetech-light.png" height="30" alt=""></picture><br><b>MGETech</b><br><sub></sub></td><td align="left" valign="top" width="25%"><img src="assets/ale.svg" height="30" alt=""><br><b>Nexus</b><br><sub>ALE Santa Catarina</sub></td><td align="left" valign="top" width="25%"><img src="assets/porto.svg" height="28" alt=""><br><b>VILT</b><br><sub>Porto Seguro</sub></td><td align="left" valign="top" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bloom-dark.svg"><img src="assets/bloom-light.svg" height="30" alt=""></picture><br><b>Loomi</b><br><sub>CX Bloom · atual</sub></td></tr></table>
-
 ## Tecnologias
 
 **Backend**<br>

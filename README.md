@@ -13,10 +13,6 @@ I'm a Software Engineer focused on **reliable backend systems**, **scalable arch
 
 Currently at **Loomi**, where I own the architecture and technical direction of **CX Bloom**, an omnichannel customer-service platform. Studying Computer Engineering at UFRN and expanding into LLMs, RAG, agents and MCP.
 
-## Experience
-
-<table><tr><td align="left" valign="top" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mgetech-dark.png"><img src="assets/mgetech-light.png" height="30" alt=""></picture><br><b>MGETech</b><br><sub></sub></td><td align="left" valign="top" width="25%"><img src="assets/ale.svg" height="30" alt=""><br><b>Nexus</b><br><sub>ALE Santa Catarina</sub></td><td align="left" valign="top" width="25%"><img src="assets/porto.svg" height="28" alt=""><br><b>VILT</b><br><sub>Porto Seguro</sub></td><td align="left" valign="top" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bloom-dark.svg"><img src="assets/bloom-light.svg" height="30" alt=""></picture><br><b>Loomi</b><br><sub>CX Bloom · current</sub></td></tr></table>
-
 ## Technologies
 
 **Backend**<br>
